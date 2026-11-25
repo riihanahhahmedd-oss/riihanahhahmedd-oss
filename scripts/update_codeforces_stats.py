@@ -7,6 +7,7 @@ import requests
 HANDLE = "Rihanah_101_r"
 API = "https://codeforces.com/api/user.status"
 OUTPUT = Path("assets/codeforces-stats.svg")
+COUNT_OUTPUT = Path("assets/codeforces-problems-count.svg")
 COLORS = {
     "background": "#171B22",
     "border": "#526B8A",
@@ -148,11 +149,22 @@ def svg_card(daily, stats):
     ]
     return "\n".join(parts)
 
+def problems_count_card(count):
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<defs><style>text{{font-family:Inter,Segoe UI,Arial,sans-serif}}.eyebrow{{font-size:23px;letter-spacing:2px;fill:#AFC7E8}}.number{{font-size:92px;font-weight:700;fill:#E6EDF3}}.label{{font-size:29px;fill:#9AA8B8}}.foot{{font-size:19px;fill:#7E9BBF}}</style></defs>
+<rect x="8" y="8" width="884" height="284" rx="18" fill="#171B22" stroke="#526B8A" stroke-width="2"/>
+<text x="52" y="68" class="eyebrow">CODEFORCES</text>
+<text x="52" y="176" class="number">{count:,}</text>
+<text x="52" y="222" class="label">Problems Solved</text>
+<text x="52" y="260" class="foot">Rihanah_101_r · Live API count</text>
+</svg>'''
+ 
 def main():
     submissions = fetch_submissions()
     daily, stats = collect_stats(submissions)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(svg_card(daily, stats), encoding="utf-8")
+    COUNT_OUTPUT.write_text(problems_count_card(stats["all_time"]), encoding="utf-8")
     print("Codeforces profile card updated:", stats)
 
 if __name__ == "__main__":

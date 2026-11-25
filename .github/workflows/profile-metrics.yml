@@ -1,0 +1,25 @@
+name: Update GitHub Profile Metrics
+
+on:
+  # Refresh every day at 00:15 UTC
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  isometric-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate isometric contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: riihanahhahmedd-oss
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Africa/Cairo

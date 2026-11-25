@@ -1,78 +1,131 @@
-<!-- The username riihanahhahmedd-oss in the stats, streak and views widgets was read from a screenshot. If a card shows "user not found", fix the username in those lines (search for riihanahhahmedd-oss). -->
+<!-- Rihanah Ahmed | Dynamic GitHub Profile -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:f59e0b&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:b45309&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64&animation=twinkling">
-  <img width="100%" alt="Rihanah Ahmed" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:b45309&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64&animation=twinkling">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101318,45:273449,100:526B8A&height=230&section=header&text=Rihanah%20Ahmed&fontSize=58&fontColor=F4F7F4&font=Space+Grotesk&fontAlignY=38&desc=Data%20Analysis%20%7C%20GenAI%20%7C%20Agentic%20AI%20%5Bsoon%5D%20%7C%20n8n&descSize=17&descColor=C7D5E8&descAlignY=59&animation=twinkling" alt="Rihanah Ahmed animated profile banner"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=640&height=50&lines=Turning+raw+data+into+clear+decisions;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python;Building+AI+agents+that+finish+real+tasks">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B45309&center=true&vCenter=true&width=640&height=50&lines=Turning+raw+data+into+clear+decisions;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python;Building+AI+agents+that+finish+real+tasks">
-  <img alt="Typing headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B45309&center=true&vCenter=true&width=640&height=50&lines=Turning+raw+data+into+clear+decisions;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python;Building+AI+agents+that+finish+real+tasks">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=AFC7E8&center=true&vCenter=true&width=850&height=55&lines=Exploring+the+world+of+Data+and+AI;Turning+information+into+meaningful+solutions;Learning+Agentic+AI+and+AI-to-Data+connections;Building+automations%2C+dashboards%2C+and+projects" alt="Animated introduction"/>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=riihanahhahmedd-oss&label=Profile+views&color=b45309&style=flat-square">
-
-## Toolkit
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-d97706?style=flat-square&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2563eb?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-b45309?style=flat-square&logo=python&logoColor=white)
-![Gen AI](https://img.shields.io/badge/Gen%20AI-1e3a8a?style=flat-square&logo=openai&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=riihanahhahmedd-oss&label=PROFILE%20VIEWS&color=657D9B&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-## Focus
+---
 
-> **Data Analysis**: insights, reports and dashboards from raw data.
->
-> **Agentic AI**: LLM agents that plan, use tools and finish tasks.
+## About Me
+
+Hey! I'm **Rihanah Ahmed**, a Computer and Information student passionate about the intersection of **Data, Artificial Intelligence, and Automation**.
+
+I enjoy exploring how data can support better decisions, how AI can make workflows smarter, and how different tools can work together to solve real problems.
+
+- Exploring the broader **Data field** — analytics, visualization, data workflows, and more.
+- Learning **Agentic AI** and how to connect AI agents with data, tools, and real-world workflows.
+- Building practical automations with **n8n** and experimenting with AI-powered workflows.
+- Using **Generative AI** tools to research, learn, brainstorm, build, and improve my workflow.
+
+## Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1400&color=9AD5A3&center=true&vCenter=true&width=760&height=42&lines=Agentic+AI+%E2%86%92+AI+agents+and+tools;AI+%2B+Data+%E2%86%92+Connecting+agents+to+data;Automation+%E2%86%92+Designing+smarter+workflows;Always+learning.+Always+building." alt="Current learning focus"/>
+
+</div>
+
+<sub> Agentic AI projects and experiments — coming soon!</sub>
+
+## Generative AI Toolkit
+
+I actively explore and use Generative AI tools as part of my learning, research, productivity, and building process.
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-202123?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CB9B70?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=x&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-5B5BD6?style=for-the-badge&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WorkBuddy](https://img.shields.io/badge/WorkBuddy-34495E?style=for-the-badge&logoColor=white)
+
+</div>
+
+## Technologies & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-D9A441?style=for-the-badge&logo=powerbi&logoColor=111111)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
 
 ## Projects
 
-| # | Project | Question it answers |
-|:-:|---|---|
-| 01 | _Coming soon_ | _One sentence_ |
-| 02 | _Coming soon_ | _One sentence_ |
-| 03 | _Coming soon_ | _One sentence_ |
-| 04 | _Coming soon_ | _One sentence_ |
-| 05 | _Coming soon_ | _One sentence_ |
-
-More work is in my pinned repositories.
-
-## GitHub activity
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&icon_color=b45309&text_color=1c1917">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&icon_color=b45309&text_color=1c1917">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=0f172a&title_color=f59e0b&text_color=e2e8f0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&text_color=1c1917">
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&text_color=1c1917">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=riihanahhahmedd-oss&hide_border=true&border_radius=0&background=0f172a&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=f59e0b&dates=94a3b8">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=riihanahhahmedd-oss&hide_border=true&border_radius=0&background=fbf8f1&ring=b45309&fire=b45309&currStreakLabel=b45309&currStreakNum=1c1917&sideNums=1c1917&sideLabels=b45309&dates=57534e">
-  <img alt="Streak" src="https://streak-stats.demolab.com/?user=riihanahhahmedd-oss&hide_border=true&border_radius=0&background=fbf8f1&ring=b45309&fire=b45309&currStreakLabel=b45309&currStreakNum=1c1917&sideNums=1c1917&sideLabels=b45309&dates=57534e">
-</picture>
+<a href="https://github.com/riihanahhahmedd-oss?tab=repositories">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=riihanahhahmedd-oss&repo=riihanahhahmedd-oss&theme=transparent&hide_border=true&title_color=9AD5A3&text_color=C9D1D9&icon_color=9AD5A3" alt="Profile repository card"/>
+</a>
 
 </div>
 
-## Contact
+More projects and experiments are on the way — especially around data, AI, and automation.
 
-<p align="center">
+## GitHub Analytics
 
-[![Email](https://img.shields.io/badge/Email-b45309?style=flat-square&logo=gmail&logoColor=white)](mailto:riihanahhessa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanah-ahmed-772823392)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rihanah_101_r)
+<div align="center">
 
-</p>
+<img src="./metrics.plugin.isocalendar.svg" width="100%" alt="Isometric contribution calendar"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=AFC7E8&icon_color=9AB4D6&text_color=E6EDF3" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&bg_color=0D1117&title_color=AFC7E8&text_color=E6EDF3" alt="Most used languages"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riihanahhahmedd-oss&bg_color=171B22&color=AFC7E8&line=7E9BBF&point=E6EDF3&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=riihanahhahmedd-oss&hide_border=true&background=0D1117&ring=AFC7E8&fire=9AB4D6&currStreakLabel=AFC7E8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak statistics"/>
+
+</div>
+
+## Codeforces Progress
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/Rihanah_101_r">
+  <img src="./assets/codeforces-stats.svg" width="100%" alt="Codeforces activity heatmap and verified solved-problem statistics"/>
+</a>
+
+<sub>Counts distinct problems with an Accepted submission on Codeforces. Data is fetched from the official Codeforces API and refreshed every 6 hours. Click the dashboard to visit my profile.</sub>
+
+</div>
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/Rihanah_101_r">
+ <img src="https://img.shields.io/badge/Codeforces-Rihanah__101__r-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/>
+</a>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:riihanahhessa@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/rihanah-ahmed-772823392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/riihanahhahmedd-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/>
+
+<sub> Learning in public • Building with curiosity • Exploring what's next</sub>
+
+</div>

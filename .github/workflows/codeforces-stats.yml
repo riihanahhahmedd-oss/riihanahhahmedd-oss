@@ -35,6 +35,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/codeforces-stats.svg
+          git add assets/codeforces-stats.svg assets/codeforces-problems-count.svg
           git commit -m "chore: refresh Codeforces dashboard"
           git push

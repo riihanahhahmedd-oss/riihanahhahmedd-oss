@@ -38,6 +38,9 @@
 |:-:|---|---|
 | 01 | _Coming soon_ | _One sentence_ |
 | 02 | _Coming soon_ | _One sentence_ |
+| 03 | _Coming soon_ | _One sentence_ |
+| 04 | _Coming soon_ | _One sentence_ |
+| 05 | _Coming soon_ | _One sentence_ |
 
 More work is in my pinned repositories.
 

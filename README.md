@@ -92,6 +92,18 @@ More projects and experiments are on the way — especially around data, AI, and
 
 </div>
 
+## Codeforces Progress
+
+<div align="center">
+
+<!-- CODEFORCES_STATS_START -->
+**Problems Solved:** Updating automatically
+<!-- CODEFORCES_STATS_END -->
+
+<a href="https://codeforces.com/profile/Rihanah_101_r">View Codeforces Profile</a>
+
+</div>
+
 ## Coding Profiles
 
 <div align="center">

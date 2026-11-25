@@ -61,7 +61,7 @@ The original Excel workbook is supplied separately. The public dashboard uses ve
 ## Project files
 
 - [dashboard.html](./dashboard.html) — interactive browser dashboard.
-- [Excel workbook](https://github.com/riihanahhahmedd-oss) — see the downloadable workbook shared with this project.
+The original Excel workbook is provided separately as a downloadable project file; this public repository page focuses on the interactive dashboard and verified analysis story.
 
 ## Interpretation notes
 

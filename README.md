@@ -103,7 +103,7 @@ More projects and experiments are on the way — especially around data, AI, and
 <br/><br/>
 
 <a href="https://codeforces.com/profile/Rihanah_101_r">
- <img src="./assets/codeforces-stats.svg?v=heatmap-only-20261125" width="100%" alt="Codeforces activity heatmap only"/>
+ <img src="./assets/codeforces-heatmap-only.svg" width="100%" alt="Codeforces activity heatmap only"/>
 </a>
 
 </div>

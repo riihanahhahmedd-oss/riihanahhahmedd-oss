@@ -1,5 +1,4 @@
-# Rihanah-Ahmed-
-<!-- The username rihanahhahmedd-oss in the stats, streak and views widgets was read from a screenshot. If a card shows "user not found", fix the username in those lines (search for rihanahhahmedd-oss). -->
+<!-- The username riihanahhahmedd-oss in the stats, streak and views widgets was read from a screenshot. If a card shows "user not found", fix the username in those lines (search for riihanahhahmedd-oss). -->
 
 <div align="center">
 
@@ -15,7 +14,7 @@
   <img alt="Typing headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B45309&center=true&vCenter=true&width=640&height=50&lines=Turning+raw+data+into+clear+decisions;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python;Building+AI+agents+that+finish+real+tasks">
 </picture>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=rihanahhahmedd-oss&label=Profile+views&color=b45309&style=flat-square">
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=riihanahhahmedd-oss&label=Profile+views&color=b45309&style=flat-square">
 
 ## Toolkit
 
@@ -46,20 +45,20 @@ More work is in my pinned repositories.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&icon_color=b45309&text_color=1c1917">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=rihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&icon_color=b45309&text_color=1c1917">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&icon_color=b45309&text_color=1c1917">
+  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&icon_color=b45309&text_color=1c1917">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=0f172a&title_color=f59e0b&text_color=e2e8f0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&text_color=1c1917">
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&text_color=1c1917">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=0f172a&title_color=f59e0b&text_color=e2e8f0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&text_color=1c1917">
+  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&border_radius=0&bg_color=fbf8f1&title_color=b45309&text_color=1c1917">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rihanahhahmedd-oss&hide_border=true&border_radius=0&background=0f172a&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=f59e0b&dates=94a3b8">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rihanahhahmedd-oss&hide_border=true&border_radius=0&background=fbf8f1&ring=b45309&fire=b45309&currStreakLabel=b45309&currStreakNum=1c1917&sideNums=1c1917&sideLabels=b45309&dates=57534e">
-  <img alt="Streak" src="https://streak-stats.demolab.com/?user=rihanahhahmedd-oss&hide_border=true&border_radius=0&background=fbf8f1&ring=b45309&fire=b45309&currStreakLabel=b45309&currStreakNum=1c1917&sideNums=1c1917&sideLabels=b45309&dates=57534e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=riihanahhahmedd-oss&hide_border=true&border_radius=0&background=0f172a&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=f59e0b&dates=94a3b8">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=riihanahhahmedd-oss&hide_border=true&border_radius=0&background=fbf8f1&ring=b45309&fire=b45309&currStreakLabel=b45309&currStreakNum=1c1917&sideNums=1c1917&sideLabels=b45309&dates=57534e">
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=riihanahhahmedd-oss&hide_border=true&border_radius=0&background=fbf8f1&ring=b45309&fire=b45309&currStreakLabel=b45309&currStreakNum=1c1917&sideNums=1c1917&sideLabels=b45309&dates=57534e">
 </picture>
 
 </div>

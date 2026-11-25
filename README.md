@@ -3,9 +3,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:f59e0b&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:b45309&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64">
-  <img width="100%" alt="Rihanah Ahmed" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:b45309&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:f59e0b&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:b45309&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64&animation=twinkling">
+  <img width="100%" alt="Rihanah Ahmed" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:b45309&height=170&section=header&text=Rihanah%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analysis%20and%20Agentic%20AI&descSize=18&descAlignY=64&animation=twinkling">
 </picture>
 
 <picture>

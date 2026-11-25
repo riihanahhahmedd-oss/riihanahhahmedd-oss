@@ -88,7 +88,18 @@ More projects and experiments are on the way — especially around data, AI, and
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riihanahhahmedd-oss&bg_color=171B22&color=AFC7E8&line=7E9BBF&point=E6EDF3&area=true&hide_border=true" alt="Contribution activity graph"/>
 
-<img src="https://streak-stats.demolab.com?user=riihanahhahmedd-oss&hide_border=true&background=0D1117&ring=AFC7E8&fire=9AB4D6&currStreakLabel=AFC7E8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak statistics"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=riihanahhahmedd-oss&hide_border=true&background=0D1117&ring=AFC7E8&fire=9AB4D6&currStreakLabel=AFC7E8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak statistics" width="100%"/>
+</td>
+<td width="50%" align="center">
+<a href="https://codeforces.com/profile/Rihanah_101_r">
+<img src="./assets/codeforces-problems-count.svg" alt="Codeforces problems solved" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 

@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:183A37,100:4F7C59&height=230&section=header&text=Rihanah%20Ahmed&fontSize=58&fontColor=F4F7F4&font=Space+Grotesk&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20AUTOMATION&descSize=17&descColor=C8E6C9&descAlignY=59&animation=twinkling" alt="Rihanah Ahmed animated profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101318,45:273449,100:526B8A&height=230&section=header&text=Rihanah%20Ahmed&fontSize=58&fontColor=F4F7F4&font=Space+Grotesk&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20AUTOMATION&descSize=17&descColor=C7D5E8&descAlignY=59&animation=twinkling" alt="Rihanah Ahmed animated profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=9AD5A3&center=true&vCenter=true&width=850&height=55&lines=Exploring+the+world+of+Data+and+AI;Turning+information+into+meaningful+solutions;Learning+Agentic+AI+and+AI-to-Data+connections;Building+automations%2C+dashboards%2C+and+projects" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=AFC7E8&center=true&vCenter=true&width=850&height=55&lines=Exploring+the+world+of+Data+and+AI;Turning+information+into+meaningful+solutions;Learning+Agentic+AI+and+AI-to-Data+connections;Building+automations%2C+dashboards%2C+and+projects" alt="Animated introduction"/>
 
-<img src="https://komarev.com/ghpvc/?username=riihanahhahmedd-oss&label=PROFILE%20VIEWS&color=527A5A&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=riihanahhahmedd-oss&label=PROFILE%20VIEWS&color=657D9B&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -83,12 +83,12 @@ More projects and experiments are on the way — especially around data, AI, and
 
 <img src="./metrics.plugin.isocalendar.svg" width="100%" alt="Isometric contribution calendar"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=9AD5A3&icon_color=9AD5A3&text_color=E6EDF3" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&bg_color=0D1117&title_color=9AD5A3&text_color=E6EDF3" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=riihanahhahmedd-oss&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=AFC7E8&icon_color=9AB4D6&text_color=E6EDF3" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihanahhahmedd-oss&layout=compact&hide_border=true&bg_color=0D1117&title_color=AFC7E8&text_color=E6EDF3" alt="Most used languages"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riihanahhahmedd-oss&bg_color=0D1117&color=9AD5A3&line=6DAA75&point=E6EDF3&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riihanahhahmedd-oss&bg_color=171B22&color=AFC7E8&line=7E9BBF&point=E6EDF3&area=true&hide_border=true" alt="Contribution activity graph"/>
 
-<img src="https://streak-stats.demolab.com?user=riihanahhahmedd-oss&hide_border=true&background=0D1117&ring=9AD5A3&fire=9AD5A3&currStreakLabel=9AD5A3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak statistics"/>
+<img src="https://streak-stats.demolab.com?user=riihanahhahmedd-oss&hide_border=true&background=0D1117&ring=AFC7E8&fire=9AB4D6&currStreakLabel=AFC7E8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak statistics"/>
 
 </div>
 

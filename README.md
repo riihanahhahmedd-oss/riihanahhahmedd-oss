@@ -22,6 +22,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-d97706?style=flat-square&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2563eb?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-b45309?style=flat-square&logo=python&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-1e3a8a?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 

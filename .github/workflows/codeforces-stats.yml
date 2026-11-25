@@ -3,6 +3,7 @@ name: Update Codeforces Dashboard
 on:
   push:
     branches:
+      - main
       - profile-dashboard-redesign
     paths-ignore:
       - "assets/codeforces-stats.svg"

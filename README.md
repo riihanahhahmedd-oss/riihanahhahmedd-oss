@@ -92,24 +92,18 @@ More projects and experiments are on the way — especially around data, AI, and
 
 </div>
 
-## Codeforces Progress
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/Rihanah_101_r">
-  <img src="./assets/codeforces-stats.svg" width="100%" alt="Codeforces activity heatmap and verified solved-problem statistics"/>
-</a>
-
-<sub>Counts distinct problems with an Accepted submission on Codeforces. Data is fetched from the official Codeforces API and refreshed every 6 hours. Click the dashboard to visit my profile.</sub>
-
-</div>
-
 ## Coding Profiles
 
 <div align="center">
 
 <a href="https://codeforces.com/profile/Rihanah_101_r">
  <img src="https://img.shields.io/badge/Codeforces-Rihanah__101__r-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/Rihanah_101_r">
+ <img src="./assets/codeforces-stats.svg" width="100%" alt="Codeforces activity heatmap"/>
 </a>
 
 </div>

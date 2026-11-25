@@ -96,11 +96,11 @@ More projects and experiments are on the way — especially around data, AI, and
 
 <div align="center">
 
-<!-- CODEFORCES_STATS_START -->
-**Problems Solved:** Updating automatically
-<!-- CODEFORCES_STATS_END -->
+<a href="https://codeforces.com/profile/Rihanah_101_r">
+  <img src="./assets/codeforces-stats.svg" width="100%" alt="Live Codeforces problem-solving activity and statistics"/>
+</a>
 
-<a href="https://codeforces.com/profile/Rihanah_101_r">View Codeforces Profile</a>
+<sub>Automatically refreshed every 6 hours from Codeforces. Click the dashboard to visit my profile.</sub>
 
 </div>
 

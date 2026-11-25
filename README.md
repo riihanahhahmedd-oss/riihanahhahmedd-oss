@@ -65,7 +65,14 @@ I actively explore and use Generative AI tools as part of my learning, research,
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Job Market & Salary Analysis
+
+A global job-market analysis built with SQL Server and Power BI, covering salary benchmarks, countries, role families, seniority, skills, and company trends.
+
+- [Project documentation and data quality audit](https://github.com/riihanahhahmedd-oss/data-analyst-portfolio/tree/main/projects/Job-Market-Analysis)
+- [Corrected SQL Server script](https://github.com/riihanahhahmedd-oss/data-analyst-portfolio/blob/main/projects/Job-Market-Analysis/JobMarket_Corrected_SQL_Server.sql)
 
 ### HR Analytics Executive Dashboard
 
@@ -74,7 +81,9 @@ An HR analytics project using Excel and an interactive HTML dashboard.
 - [Project story, business questions, and verified findings](./projects/HR-Analytics-Dashboard/README.md)
 - [Open interactive dashboard](https://htmlpreview.github.io/?https://raw.githubusercontent.com/riihanahhahmedd-oss/riihanahhahmedd-oss/main/projects/HR-Analytics-Dashboard/dashboard.html)
 
-**Focus:** Workforce analytics · Compensation · Department comparison · Employee exits · Data storytelling
+### Portfolio Website
+
+[Open the live portfolio website](https://data-analyst-portfolio-ecru-chi.vercel.app/) · [View its source code](https://github.com/riihanahhahmedd-oss/data-analyst-portfolio)
 
 ## Projects
 

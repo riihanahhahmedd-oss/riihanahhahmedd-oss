@@ -65,6 +65,17 @@ I actively explore and use Generative AI tools as part of my learning, research,
 
 ---
 
+## Featured Project
+
+### HR Analytics Executive Dashboard
+
+An HR analytics project using Excel and an interactive HTML dashboard.
+
+- [Project story, business questions, and verified findings](./projects/HR-Analytics-Dashboard/README.md)
+- [Open interactive dashboard](https://htmlpreview.github.io/?https://raw.githubusercontent.com/riihanahhahmedd-oss/riihanahhahmedd-oss/main/projects/HR-Analytics-Dashboard/dashboard.html)
+
+**Focus:** Workforce analytics · Compensation · Department comparison · Employee exits · Data storytelling
+
 ## Projects
 
 <div align="center">

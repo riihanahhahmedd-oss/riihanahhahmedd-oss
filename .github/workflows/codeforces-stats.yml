@@ -1,6 +1,10 @@
 name: Update Codeforces Dashboard
 
 on:
+  # Run when this draft dashboard is updated, plus scheduled refreshes.
+  push:
+    branches:
+      - profile-dashboard-redesign
   # Refresh every 6 hours. GitHub Actions schedules are not real-time.
   schedule:
     - cron: "17 */6 * * *"

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101318,45:273449,100:526B8A&height=230&section=header&text=Rihanah%20Ahmed&fontSize=58&fontColor=F4F7F4&font=Space+Grotesk&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20AUTOMATION&descSize=17&descColor=C7D5E8&descAlignY=59&animation=twinkling" alt="Rihanah Ahmed animated profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101318,45:273449,100:526B8A&height=230&section=header&text=Rihanah%20Ahmed&fontSize=58&fontColor=F4F7F4&font=Space+Grotesk&fontAlignY=38&desc=Data%20Analysis%20%7C%20GenAI%20%7C%20Agentic%20AI%20%5Bsoon%5D%20%7C%20n8n&descSize=17&descColor=C7D5E8&descAlignY=59&animation=twinkling" alt="Rihanah Ahmed animated profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=AFC7E8&center=true&vCenter=true&width=850&height=55&lines=Exploring+the+world+of+Data+and+AI;Turning+information+into+meaningful+solutions;Learning+Agentic+AI+and+AI-to-Data+connections;Building+automations%2C+dashboards%2C+and+projects" alt="Animated introduction"/>
 
@@ -12,18 +12,18 @@
 
 ---
 
-## ✦ About Me
+## About Me
 
 Hey! I'm **Rihanah Ahmed**, a Computer and Information student passionate about the intersection of **Data, Artificial Intelligence, and Automation**.
 
 I enjoy exploring how data can support better decisions, how AI can make workflows smarter, and how different tools can work together to solve real problems.
 
-- 📊 Exploring the broader **Data field** — analytics, visualization, data workflows, and more.
-- 🤖 Learning **Agentic AI** and how to connect AI agents with data, tools, and real-world workflows.
-- ⚙️ Building practical automations with **n8n** and experimenting with AI-powered workflows.
-- ✨ Using **Generative AI** tools to research, learn, brainstorm, build, and improve my workflow.
+- Exploring the broader **Data field** — analytics, visualization, data workflows, and more.
+- Learning **Agentic AI** and how to connect AI agents with data, tools, and real-world workflows.
+- Building practical automations with **n8n** and experimenting with AI-powered workflows.
+- Using **Generative AI** tools to research, learn, brainstorm, build, and improve my workflow.
 
-## ✦ Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -31,9 +31,9 @@ I enjoy exploring how data can support better decisions, how AI can make workflo
 
 </div>
 
-<sub>🚧 Agentic AI projects and experiments — coming soon!</sub>
+<sub> Agentic AI projects and experiments — coming soon!</sub>
 
-## ✦ Generative AI Toolkit
+## Generative AI Toolkit
 
 I actively explore and use Generative AI tools as part of my learning, research, productivity, and building process.
 
@@ -49,7 +49,7 @@ I actively explore and use Generative AI tools as part of my learning, research,
 
 </div>
 
-## ✦ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -65,19 +65,19 @@ I actively explore and use Generative AI tools as part of my learning, research,
 
 ---
 
-## ✦ Projects
+## Projects
 
 <div align="center">
 
 <a href="https://github.com/riihanahhahmedd-oss?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riihanahhahmedd-oss&repo=riihanahhahmedd-oss&theme=transparent&hide_border=true&title_color=9AD5A3&text_color=C9D1D9&icon_color=9AD5A3" alt="Profile repository card"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=riihanahhahmedd-oss&repo=riihanahhahmedd-oss&theme=transparent&hide_border=true&title_color=9AD5A3&text_color=C9D1D9&icon_color=9AD5A3" alt="Profile repository card"/>
 </a>
 
 </div>
 
 More projects and experiments are on the way — especially around data, AI, and automation.
 
-## ✦ GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -92,19 +92,19 @@ More projects and experiments are on the way — especially around data, AI, and
 
 </div>
 
-## ✦ Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
 <a href="https://codeforces.com/profile/Rihanah_101_r">
-  <img src="https://img.shields.io/badge/Codeforces-Rihanah__101__r-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/>
+ <img src="https://img.shields.io/badge/Codeforces-Rihanah__101__r-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/>
 </a>
 
 </div>
 
 ---
 
-## ✦ Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -114,6 +114,6 @@ More projects and experiments are on the way — especially around data, AI, and
 
 <br/>
 
-<sub>✦ Learning in public • Building with curiosity • Exploring what's next</sub>
+<sub> Learning in public • Building with curiosity • Exploring what's next</sub>
 
 </div>

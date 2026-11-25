@@ -7,7 +7,7 @@ on:
     paths-ignore:
       - "assets/codeforces-stats.svg"
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "23 */6 * * *"
   workflow_dispatch:
 
 permissions:

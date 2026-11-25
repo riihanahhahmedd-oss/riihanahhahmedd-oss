@@ -20,7 +20,7 @@ COLORS = {
 def fetch_submissions():
     all_submissions = []
     start = 1
-    batch_size = 5000
+    batch_size = 10000
     while True:
         response = requests.get(
             API,
@@ -34,10 +34,20 @@ def fetch_submissions():
             raise RuntimeError(payload.get("comment", "Codeforces API returned an error"))
         batch = payload.get("result", [])
         all_submissions.extend(batch)
+        print(f"Fetched {len(batch)} submissions from offset {start}; total fetched: {len(all_submissions)}")
         if len(batch) < batch_size:
             break
         start += len(batch)
         time.sleep(2)
+    accepted = [item for item in all_submissions if item.get("verdict") == "OK"]
+    unique = {
+        (item.get("problem", {}).get("contestId"), item.get("problem", {}).get("index"))
+        for item in accepted
+        if item.get("problem", {}).get("contestId") is not None and item.get("problem", {}).get("index")
+    }
+    print(f"Codeforces API returned {len(all_submissions)} submissions, {len(accepted)} accepted submissions, {len(unique)} distinct solved problems.")
+    if not all_submissions:
+        raise RuntimeError("Codeforces API returned an empty submission list; refusing to publish a misleading zero.")
     return all_submissions
 
 def collect_stats(submissions):
@@ -166,6 +176,7 @@ def main():
     OUTPUT.write_text(svg_card(daily, stats), encoding="utf-8")
     COUNT_OUTPUT.write_text(problems_count_card(stats["all_time"]), encoding="utf-8")
     print("Codeforces profile card updated:", stats)
+    print(f"Verified Codeforces handle: {HANDLE}")
 
 if __name__ == "__main__":
     main()

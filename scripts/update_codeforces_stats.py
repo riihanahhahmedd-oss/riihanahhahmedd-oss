@@ -6,7 +6,7 @@ import requests
 
 HANDLE = "Rihanah_101_r"
 API = "https://codeforces.com/api/user.status"
-OUTPUT = Path("assets/codeforces-stats.svg")
+OUTPUT = Path("assets/codeforces-heatmap-only.svg")
 
 BG = "#171B22"
 EMPTY = "#293442"

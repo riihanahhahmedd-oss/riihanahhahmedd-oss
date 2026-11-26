@@ -17,7 +17,6 @@
 <text x="35" y="146" class="day">Mon</text>
 <text x="35" y="196" class="day">Wed</text>
 <text x="35" y="246" class="day">Fri</text>
-<rect x="120" y="205" width="20" height="20" rx="3" fill="#293442"><title>2025-11-27</title></rect>
 <rect x="120" y="230" width="20" height="20" rx="3" fill="#293442"><title>2025-11-28</title></rect>
 <rect x="120" y="255" width="20" height="20" rx="3" fill="#293442"><title>2025-11-29</title></rect>
 <rect x="145" y="105" width="20" height="20" rx="3" fill="#293442"><title>2025-11-30</title></rect>
@@ -381,4 +380,5 @@
 <rect x="1420" y="130" width="20" height="20" rx="3" fill="#293442"><title>2026-11-23</title></rect>
 <rect x="1420" y="155" width="20" height="20" rx="3" fill="#293442"><title>2026-11-24</title></rect>
 <rect x="1420" y="180" width="20" height="20" rx="3" fill="#293442"><title>2026-11-25</title></rect>
+<rect x="1420" y="205" width="20" height="20" rx="3" fill="#293442"><title>2026-11-26</title></rect>
 </svg>
